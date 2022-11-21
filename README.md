@@ -5,7 +5,7 @@
 - TEST4 
   - LINK TEST *[TEST LINK](https://www.dexcloud.gq)* 
   
- ![The San Juan Mountains are beautiful!](/assets/images/1testpage.jpg "San Juan Mountains")
+ ![The San Juan Mountains are beautiful!](images/1testpage.jpg "San Juan Mountains")
 
 
 
