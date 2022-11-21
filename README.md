@@ -5,8 +5,7 @@
 - TEST4 
   - LINK TEST *[TEST LINK](https://www.dexcloud.gq)* 
   
- ![TEST1JPEG
-!](images/1testpage.jpg "Zenitsu")
+ ![TEST1JPEG!](images/1testpage.jpg "Zenitsu")
 
-
-
+ ![TEST2JPEG!](images/02test.jpg "ANIME1")
+ 
