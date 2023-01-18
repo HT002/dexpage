@@ -14,7 +14,7 @@
   - PLAYLIST M1 *[HERE](https://ymusic.io/watch?v=nCWxwZRH2BM&list=PLnNmKiPxXQnuDv64rmjT6pA_pW_91qoEg)*
   - EVERYDAY P9d *[HERE](https://ymusic.io/watch?v=Fc-dbtAOzx8)*
   - แล้วเราค่อยพบกันอีกทีหนึ่ง *[HERE](https://ymusic.io/watch?v=-QNIEaM5Ybs)*
-  
+  - นั่งนับเงินแสนแล้วเดินควงแขนเธอ *[HERE](https://ymusic.io/watch?v=Ieq9rUssDxU)*
   
  [![JPEG1!](images/picture1.jpg)](https://www.dexcloud.gq/images/picture1.jpg)
 
