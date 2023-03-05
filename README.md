@@ -19,6 +19,8 @@
   - PLAYLIST M2 *[HERE](https://ymusic.io/watch?v=Oqc9C4xWzak&list=RDOqc9C4xWzak)*
   - PLAYLIST MROCK *[HERE](https://music.youtube.com/playlist?list=OLAK5uy_lCBFUnbqjVu1oG3eQHwZeJLTHS0YrYgOw&feature=share)*
   - DOCK MOD *[click](https://taskbartodock.en.softonic.com/)*
+  - จัดwallpaper pc *[click](https://www.facebook.com/reel/1226502794962526?mibextid=9drbnH&s=yWDuG2&fs=e)*
+
  [![JPEG1!](images/picture1.jpg)](https://www.dexcloud.gq/images/picture1.jpg)
 
  [![TEST1JPEG!](images/1testpage.jpg "Zenitsu")](https://www.dexcloud.gq/images/1testpage.jpg)
